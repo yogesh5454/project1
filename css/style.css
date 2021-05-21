@@ -1,0 +1,93 @@
+body{
+  overflow-x:hidden;
+  margin:0px;
+  padding:0px;
+}
+
+.borderleft{
+  border-left:2px solid #ccc;
+}
+.borderright{
+  border-right:2px solid #ccc;
+}
+
+.smallbox{
+    padding-left:2.5%;
+    padding-top:0.5%;
+    padding-bottom:0.5%;
+}
+
+.navbar a{
+  color:white !important;
+}
+.navbar-toggler-icon{
+  background-color:white;
+}
+
+.aboutbox{
+  width:101%;
+  padding-top:4%;
+  padding-bottom:2%;
+  color:white;
+  background-color:#4A154A;
+}
+
+#collegeName{
+  text-align:center;
+}
+#aboutcollege{
+  margin-top:30px;
+  text-align:center;
+}
+
+.readmorebtn{
+  border-color:white;
+  color:white;
+  margin:auto !important;
+}
+.readmorebtn:hover{
+  background-color:yellow;
+  color:black;
+  border:0px;
+}
+
+.program{
+  margin-top:3%;
+}
+.asmttitle{
+  text-align:center;
+  text-transform:uppercase;
+}
+
+.circle{
+  background-color:#4A154A;
+  color:white;
+  height:220px;
+  width:220px;
+  font-weight:bold;
+  padding:28% 10%;
+  border-radius:150%;
+  text-align:center;
+}
+
+
+.center-align{
+  text-align:center;
+}
+.maincolor{
+  background-color:#4A154A !important;
+}
+.noborder{
+  border:none !important;
+}
+
+.feature{
+  margin-top:3%;
+}
+.hoveryellow:hover{
+  background-color:#FFAB00 !important;
+}
+
+.feature:hover{
+  box-shadow:10px 10px 5px #ccc;
+}
